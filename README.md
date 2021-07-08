@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
-<h3 align="center">I'm a ReactJS | NextJS | Typescript | Developer</h3>
+<h3 align="center">I'm a ReactJS | NextJS | Typescript Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues" /> </p>
 
 - 📫 How to reach me **tiagoasrodrigues@protonmail.com** and <img border="" width="15" height="15" text-align="center" src="https://user-images.githubusercontent.com/68797494/110377289-fd38a480-8032-11eb-8b3c-27450410686a.png"></a></center> @tiagoasrodrigues

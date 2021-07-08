@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://codepen.io/tiagoasrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
 <a href="https://twitter.com/tiagoferland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" color="gray" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" background="gray" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
 <a href="https://stackexchange.com/users/19998098/tiago-augusto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
 <a href="https://codesandbox.io/u/tiagoasrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
 <a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>

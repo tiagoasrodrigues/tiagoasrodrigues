@@ -28,6 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tiagoasrodrigues&show_icons=true" alt="tiagoasrodrigues"/> 
 </p>
 
+<h3 align="center">Social networks</h3>
+
 <p align="center">  
   <a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" src="https://i.ibb.co/Bzd7FPk/linkedin.png" alt="linkedin" border="0" height="30" width="30" /></a>
   <a href="https://twitter.com/tiagoasrodrigs" target="blank"><img align="center" src="https://i.ibb.co/SfgjdCw/twitter.png" alt="twitter" border="0" height="30" width="30" /></a>

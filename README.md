@@ -1,33 +1,58 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
-<h3 align="center">I'm a ReactJS | NextJS | Typescript Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues" /> </p>
+<h3 align="center">I'm a Front-End Developer</h3>
 
-- 📫 How to reach me **tiagoasrodrigues@protonmail.com** and <img border="" width="15" height="15" text-align="center" src="https://user-images.githubusercontent.com/68797494/110377289-fd38a480-8032-11eb-8b3c-27450410686a.png"></a></center> @tiagoasrodrigues
-
-<p align="left">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/68797494/110652982-9edb0580-819b-11eb-8113-c210c7c88afb.png"alt="typescript" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/68797494/110653417-fe391580-819b-11eb-91df-3e58ee84eafb.png"alt="babel" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/68797494/110654015-87e8e300-819c-11eb-8f1d-a6df578e9b33.png"alt="webpack" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tiagoasrodrigues&show_icons=true" alt="tiagoasrodrigues"/> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues"  height="25"/>
 </p>
 
 <p align="center">
-<a href="https://codepen.io/tiagoasrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://twitter.com/tiagoferland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://stackexchange.com/users/19998098/tiago-augusto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://codesandbox.io/u/tiagoasrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
-<a href="https://www.instagram.com/tiagoferlandhill/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tiagoasrodrigues" height="20" width="20" /></a>
+  <img src=https://i.pinimg.com/originals/33/72/8b/33728bee44244dc2b24e3f861c198666.jpg alt="cover" border="0">
 </p>
 
+<h3 align="center">Technologies</h3>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5"  width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3"  width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"  width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="25" height="25"/>
+</p>
+
+<h3 align="center">Github Status</h3>
+
+<p align="center"border="0">
+<img src="https://github-readme-stats.vercel.app/api?username=tiagoasrodrigues&show_icons=true" alt="tiagoasrodrigues"/> 
+</p>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" src="https://i.ibb.co/Bzd7FPk/linkedin.png" alt="linkedin" border="0" height="30" width="30" /></a>
+  <a href="https://twitter.com/tiagoasrodrigs" target="blank"><img align="center" src="https://i.ibb.co/SfgjdCw/twitter.png" alt="twitter" border="0" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="blank"><img align="center" src="https://i.ibb.co/f881qSD/facebook.png" alt="facebook" border="0" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/tiagoaugustosr/" target="blank"><img align="center" src="https://i.ibb.co/dQZJwCm/instagram.png" alt="instagram" border="0" height="30" width="30" /></a>
+  <a href="https://codepen.io/tiagoasrodrigues" target="blank"><img align="center" src="https://i.ibb.co/FDpMkvx/codepen.png" alt="codepen" border="0" height="30" width="30" /></a>
+  <a href="https://stackexchange.com/users/19998098/tiago-augusto" target="blank"><img align="center" img src="https://i.ibb.co/5BNRDzJ/stack-overflow.png" alt="stack-overflow" border="0" height="30" width="30" /></a>
+  <a href="https://codesandbox.io/u/tiagoasrodrigues" target="blank"><img align="center" src="https://i.ibb.co/R07C9vr/Code-Sandbox.png" alt="Code-Sandbox" border="0" height="30" width="30" /></a>
+</p>
+
+ <!-- Add features
+ ### Autor <a id="autor"> </a>
+
+---
+<a href="https://github.com/Seu-perfil" style="text-decoration: none;">
+<img style="border-radius: 50%;" src="url-de-alguma-imagem-por-exemplo-do-github"/>
+
+<br />
+<span> Feito com ❤️ por Seu Nome 👋 Entre em contato! </span> 
+</a> 
+-->
 
 <!--
+- 📫 How to reach me **tiagoasrodrigues@protonmail.com** and <img border="" width="15" height="15" text-align="center" src="https://user-     images.githubusercontent.com/68797494/110377289-fd38a480-8032-11eb-8b3c-27450410686a.png"></a></center> @tiagoasrodrigues
+
 **tiagoasrodrigues/tiagoasrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

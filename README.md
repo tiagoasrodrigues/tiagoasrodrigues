@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src=https://i.pinimg.com/originals/33/72/8b/33728bee44244dc2b24e3f861c198666.jpg alt="cover" border="0">
+  <img src=https://i.ibb.co/mCk83y5/BANNER-TIAGO-FRONT-END-DEVELOPER-2-edit.png alt="cover" style="border-radius:5%">
 </p>
 
 <h3 align="center">Technologies</h3>
@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3"  width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"  width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="25" height="25"/>

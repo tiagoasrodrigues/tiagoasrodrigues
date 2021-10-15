@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="25" height="25"/>
 </p>
 
-<h3 align="center">Github Status</h3>
+<h3 align="center">GitHub Status</h3>
 
 <p align="center"border="0">
 <img src="https://github-readme-stats.vercel.app/api?username=tiagoasrodrigues&show_icons=true" alt="tiagoasrodrigues"/> 

@@ -32,13 +32,13 @@
 <h3 align="center">Social networks</h3>
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="blank"><img align="center" src="https://i.ibb.co/Bzd7FPk/linkedin.png" alt="linkedin" border="0" height="30" width="30" /></a>
-  <a href="https://twitter.com/tiagoasrodrigs" target="blank"><img align="center" src="https://i.ibb.co/SfgjdCw/twitter.png" alt="twitter" border="0" height="30" width="30" /></a>
-  <a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="blank"><img align="center" src="https://i.ibb.co/f881qSD/facebook.png" alt="facebook" border="0" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/tiagoaugustosr/" target="blank"><img align="center" src="https://i.ibb.co/dQZJwCm/instagram.png" alt="instagram" border="0" height="30" width="30" /></a>
-  <a href="https://codepen.io/tiagoasrodrigues" target="blank"><img align="center" src="https://i.ibb.co/FDpMkvx/codepen.png" alt="codepen" border="0" height="30" width="30" /></a>
-  <a href="https://stackexchange.com/users/19998098/tiago-augusto" target="blank"><img align="center" img src="https://i.ibb.co/5BNRDzJ/stack-overflow.png" alt="stack-overflow" border="0" height="30" width="30" /></a>
-  <a href="https://codesandbox.io/u/tiagoasrodrigues" target="blank"><img align="center" src="https://i.ibb.co/R07C9vr/Code-Sandbox.png" alt="Code-Sandbox" border="0" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="_blank"><img align="center" src="https://i.ibb.co/Bzd7FPk/linkedin.png" alt="linkedin" border="0" height="30" width="30" /></a>
+  <a href="https://twitter.com/tiagoasrodrigs" target="_blank"><img align="center" src="https://i.ibb.co/SfgjdCw/twitter.png" alt="twitter" border="0" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="_blank"><img align="center" src="https://i.ibb.co/f881qSD/facebook.png" alt="facebook" border="0" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/tiagoaugustosr/" target="_blank"><img align="center" src="https://i.ibb.co/dQZJwCm/instagram.png" alt="instagram" border="0" height="30" width="30" /></a>
+  <a href="https://codepen.io/tiagoasrodrigues" target="_blank"><img align="center" src="https://i.ibb.co/FDpMkvx/codepen.png" alt="codepen" border="0" height="30" width="30" /></a>
+  <a href="https://stackexchange.com/users/19998098/tiago-augusto" target="_blank"><img align="center" img src="https://i.ibb.co/5BNRDzJ/stack-overflow.png" alt="stack-overflow" border="0" height="30" width="30" /></a>
+  <a href="https://codesandbox.io/u/tiagoasrodrigues" target="_blank"><img align="center" src="https://i.ibb.co/R07C9vr/Code-Sandbox.png" alt="Code-Sandbox" border="0" height="30" width="30" /></a>
 </p>
 
  <!-- Add features

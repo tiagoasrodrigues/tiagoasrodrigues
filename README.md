@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
 <h3 align="center">I'm a System Analyst & Front-End Developer</h3>
-
+elisnt
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues"  height="25"/>
 </p>
@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Instagram Badge](https://img.shields.io/badge/-tiagoaugustosr-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/tiagoaugustosr/)](https://www.instagram.com/tiagoaugustosr/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Augusto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-tiago-augusto/)](https://www.linkedin.com/in/dev-tiago-augusto/) 
+[![Instagram Badge](https://img.shields.io/badge/-tiagoaugustosr-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/tiagoaugustosr/)](https://www.instagram.com/tiagoaugustosr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Augusto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-tiago-augusto/)](https://www.linkedin.com/in/dev-tiago-augusto/)
 -->

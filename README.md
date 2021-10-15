@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src=https://i.ibb.co/mCk83y5/BANNER-TIAGO-FRONT-END-DEVELOPER-2-edit.png alt="cover" style="border-radius:5%">
+  <img src=https://i.ibb.co/S6jpYPc/BANNER-TIAGO-FRONT-END-DEVELOPER-DESC-BORDER.png alt="cover" style="border-radius:5%">
 </p>
 
 <h3 align="center">Technologies</h3>

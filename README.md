@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues"  height="25"/>
 </p>
 
-<p align="center">
-  <img src=https://i.ibb.co/S6jpYPc/BANNER-TIAGO-FRONT-END-DEVELOPER-DESC-BORDER.png alt="cover" style="border-radius:5%">
-</p>
+<!-- 
+  <p align="center">
+    <img src=https://i.ibb.co/S6jpYPc/BANNER-TIAGO-FRONT-END-DEVELOPER-DESC-BORDER.png alt="cover" style="border-radius:5%">
+  </p>
+-->
 
 <h3 align="center">Technologies</h3>
 <p align="center">

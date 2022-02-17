@@ -73,4 +73,6 @@ Here are some ideas to get you started:
 
 [![Instagram Badge](https://img.shields.io/badge/-tiagoaugustosr-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/tiagoaugustosr/)](https://www.instagram.com/tiagoaugustosr/)
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Augusto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-tiago-augusto/)](https://www.linkedin.com/in/dev-tiago-augusto/)
+Add new features
+
 -->

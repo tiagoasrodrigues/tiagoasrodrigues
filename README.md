@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
 <h3 align="center">I'm a System Analyst & Front-End Developer</h3>
 
@@ -5,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=tiagoasrodrigues" alt="tiagoasrodrigues"  height="25"/>
 </p>
 
-<!-- 
+ 
   <p align="center">
     <img src=https://i.ibb.co/S6jpYPc/BANNER-TIAGO-FRONT-END-DEVELOPER-DESC-BORDER.png alt="cover" style="border-radius:5%">
   </p>
--->
+
 
 <h3 align="center">Technologies</h3>
 <p align="center">
@@ -42,6 +43,7 @@
   <a href="https://stackexchange.com/users/19998098/tiago-augusto" target="_blank"><img align="center" img src="https://i.ibb.co/5BNRDzJ/stack-overflow.png" alt="stack-overflow" border="0" height="30" width="30" /></a>
   <a href="https://codesandbox.io/u/tiagoasrodrigues" target="_blank"><img align="center" src="https://i.ibb.co/R07C9vr/Code-Sandbox.png" alt="Code-Sandbox" border="0" height="30" width="30" /></a>
 </p>
+-->
 
  <!-- Add features
  ### Autor <a id="autor"> </a>
@@ -77,7 +79,7 @@ Add new features
 
 -->
 
-<!--
+
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
@@ -87,7 +89,7 @@ Add new features
 
  - *Atualmente Formado em Análise e Desenvolvimento de Sistemas* 
  
- - *Apaixonado por Desenvolvimento Web, em especial por Front End & Mobile 💙* 
+ - *Apaixonado por Desenvolvimento de App´s & Web, em especial por Front End & Mobile 💙* 
 
 
 ## 🔮 Minha Stack
@@ -104,19 +106,19 @@ Add new features
 ## 📈 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Ricmaloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricmaloy&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricmaloy&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/tiagoasrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoasrodrigues&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoasrodrigues&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/Ricmaloy/FalaDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=FalaDev&theme=react&hide_border=true" />
+ <a href="https://github.com/tiagoasrodrigues/ignews">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoasrodrigues&repo=ignews&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/Ricmaloy/NLW-7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=NLW-7&theme=react&hide_border=true" />
+<a href="https://github.com/tiagoasrodrigues/gameplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiagoasrodrigues&repo=gameplay&theme=react&hide_border=true" />
 </a>
 </div>
  
@@ -125,23 +127,30 @@ Add new features
 ```bash
 # abra seu terminal e digite o comando: 
  
-npx ricardozamboni
+npx tiagoasrodrigues
 ```
- 
+<!--
 ## 🎶 Ouvindo...
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12146821908&redirect=true)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159213583&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12159213583&redirect=true)
+-->
 
 ## :speech_balloon: Vamos conversar  
 
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
 <div align="center">
-<a href="https://twitter.com/ricardozamboni_" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  <a href="https://github.com/Ricmaloy"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/ric.zamboni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://ricardozamboni.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  <a href="mailto:ricardozamboni021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/ricardo-zamboni-3906471b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://www.twitch.tv/ricmaloy" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/tiagoasrodrigs" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
+<a href="https://github.com/tiagoasrodrigues"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/tiagoaugustosr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+<a href="https://tiagoasrodrigues.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>  
+<a href="mailto:tiagoasrodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.twitch.tv/Tiago_Ferland" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
  
 #
  
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
--->
+  
+&nbsp; 🚀 Créditos ao <a href="https://github.com/Ricmaloy" target="_blank">Ricmaloy</a>

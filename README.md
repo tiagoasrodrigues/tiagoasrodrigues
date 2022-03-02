@@ -74,6 +74,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
   
 <!--  
+
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
 <h3 align="center">I'm a System Analyst & Front-End Developer</h3>
 
@@ -151,4 +152,5 @@ Add new features
 <a href="https://www.linkedin.com/in/dev-tiago-augusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.twitch.tv/Tiago_Ferland" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+
 -->

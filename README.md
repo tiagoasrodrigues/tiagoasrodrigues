@@ -42,7 +42,7 @@
 </a>
 </div>
   
-## 🚀 Acesse meu portfólio pelo QR abaixo
+## 🚀 Acesse meu portfólio pelo QR Code abaixo
 
 <div align="center">
   <img src="https://i.ibb.co/Ny1BY0b/qrcode-tiagoasrodrigues-vercel-app.png">

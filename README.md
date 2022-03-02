@@ -3,15 +3,15 @@
 ![api energy](https://i.ibb.co/R2VMHfm/api.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Tiago Augusto dos Santos Rodrigues e sou de São Paulo* 
+ - *Me chamo Tiago Augusto dos Santos Rodrigues e nasci em Joinville-SC* 
 
- - *Atualmente Formado em Análise e Desenvolvimento de Sistemas* 
+ - *Atualmente moro em São Paulo e sou Formado em Análise e Desenvolvimento de Sistemas* 
  
  - *Apaixonado por Desenvolvimento de App´s & Web , em especial por Front End 💻 & Mobile📱* 
 
 
 ## 🔮 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
+ Aqui estão algumas das tecnologias que uso no meu dia a dia
 
 <div align="center">
  <img src="https://media.giphy.com/media/GGUWNkFRnS30aA5wHS/giphy.gif" width="100"> 
@@ -31,7 +31,7 @@
   
 
 
-## 🔥 Meus repos favoritos
+## 🔥 Meus repositórios favoritos
 
 <div align="center">
  <a href="https://github.com/tiagoasrodrigues/ignews">
@@ -42,7 +42,7 @@
 </a>
 </div>
   
-## 🚀 Meu portfólio
+## 🚀 Acesse meu portfólio pelo QR abaixo
 
 <div align="center">
   <img src="https://i.ibb.co/Ny1BY0b/qrcode-tiagoasrodrigues-vercel-app.png">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Augusto</h1>
+<h1 align="center">Hi dear <!-- <img src="https://c.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" width="30px">, --> I'm Tiago Augusto</h1>
 
 ![api energy](https://i.ibb.co/R2VMHfm/api.gif)
 
@@ -137,10 +137,6 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-tiagoaugustosr-black?style=flat-square&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/tiagoaugustosr/)](https://www.instagram.com/tiagoaugustosr/)
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20Augusto-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-tiago-augusto/)](https://www.linkedin.com/in/dev-tiago-augusto/)
 Add new features
-  
-## 🎶 Ouvindo...
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12159213583&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12159213583&redirect=true)
   
 <div align="center">
 <a href="https://twitter.com/tiagoasrodrigs" target="_blank"><img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  

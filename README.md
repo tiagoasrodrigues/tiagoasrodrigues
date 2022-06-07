@@ -3,7 +3,7 @@
 ![api energy](https://i.ibb.co/R2VMHfm/api.gif)
 
 ## 💡 Sobre mim :
- - *Me chamo Tiago Augusto dos Santos Rodrigues e nasci em Joinville-SC* 
+ - *Me chamo Tiago Augusto dos Santos Rodrigues e sou natural de Joinville-SC* 
 
  - *Atualmente moro em São Paulo e sou Formado em Análise e Desenvolvimento de Sistemas* 
  

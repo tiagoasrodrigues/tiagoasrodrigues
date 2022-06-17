@@ -67,7 +67,6 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <a href="https://www.facebook.com/tiagoaugustodossantosrodrigues/" target="_blank"><img align="center" src="https://i.ibb.co/f881qSD/facebook.png" alt="facebook" border="0" height="50" width="50" /></a>
   <a href="https://www.instagram.com/tiagoaugustosr/" target="_blank"><img align="center" src="https://i.ibb.co/dQZJwCm/instagram.png" alt="instagram" border="0" height="50" width="50" /></a>
 </div>
-
   
 #
  

@@ -2,6 +2,7 @@
 
 ![api energy](https://i.ibb.co/R2VMHfm/api.gif)
 
+
 ## 💡 Sobre mim :
  - *Me chamo Tiago Augusto dos Santos Rodrigues e sou natural de Joinville-SC* 
 

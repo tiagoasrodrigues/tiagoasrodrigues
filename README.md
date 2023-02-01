@@ -4,11 +4,11 @@
 
 
 ## 💡 Sobre mim :
- - *Me chamo Tiago Augusto dos Santos Rodrigues e sou natural de Joinville-SC* 
+ - *Me chamo Tiago e sou natural de Joinville-SC* 
 
  - *Atualmente moro em São Paulo e sou Formado em Análise e Desenvolvimento de Sistemas* 
  
- - *Apaixonado por Desenvolvimento de App´s & Web , em especial por Front End 💻 & Mobile📱* 
+ - *Apaixonado por Desenvolvimento de App´s, Sistemas & Web , em especial por Front End 💻 & Mobile📱* 
 
 
 ## 🔮 Minha Stack

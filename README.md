@@ -6,9 +6,9 @@
 ## 💡 Sobre mim :
  - *Me chamo Tiago e sou natural de Joinville-SC* 
 
- - *Atualmente moro em São Paulo e sou Formado em Análise e Desenvolvimento de Sistemas* 
+ - *Sou Formado em Análise e Desenvolvimento de Sistemas e cursando pós em Arquitetura de Software* 
  
- - *Apaixonado por Desenvolvimento de App´s, Sistemas & Web , em especial por Front End 💻 & Mobile📱* 
+ - *Apaixonado por Desenvolvimento de App´s, Sistemas & Web , focado no Front-End 💻 & Mobile📱* 
 
 
 ## 🔮 Minha Stack
